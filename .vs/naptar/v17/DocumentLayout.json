@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galtamas\\source\\repos\\naptar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\removeeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|solutionrelative:naptar\\removeeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\addeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|solutionrelative:naptar\\addeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\addeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|solutionrelative:naptar\\addeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|c:\\users\\galtamas\\source\\repos\\naptar\\naptar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|solutionrelative:naptar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|solutionrelative:naptar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\ucdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|solutionrelative:naptar\\ucdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\removeeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|solutionrelative:naptar\\removeeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\properties\\sqlitedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|solutionrelative:naptar\\properties\\sqlitedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\properties\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|solutionrelative:naptar\\properties\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\ucblank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|solutionrelative:naptar\\ucblank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\ucdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5E8BA5-F977-4C3B-B7B3-3A2B68271073}|naptar\\naptar.csproj|solutionrelative:naptar\\ucdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\Form1.cs",
+              "RelativeDocumentMoniker": "naptar\\Form1.cs",
+              "ToolTip": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\Form1.cs [Design]",
+              "RelativeToolTip": "naptar\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:53:18.155Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UCDays.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\UCDays.cs",
+              "RelativeDocumentMoniker": "naptar\\UCDays.cs",
+              "ToolTip": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\UCDays.cs [Design]",
+              "RelativeToolTip": "naptar\\UCDays.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:44:00.399Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEventForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\AddEventForm.cs",
+              "RelativeDocumentMoniker": "naptar\\AddEventForm.cs",
+              "ToolTip": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\AddEventForm.cs [Design]",
+              "RelativeToolTip": "naptar\\AddEventForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:52:48.173Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEventForm.cs",
+              "DocumentMoniker": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\AddEventForm.cs",
+              "RelativeDocumentMoniker": "naptar\\AddEventForm.cs",
+              "ToolTip": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\AddEventForm.cs",
+              "RelativeToolTip": "naptar\\AddEventForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:03:20.11Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\Properties\\Event.cs",
+              "RelativeDocumentMoniker": "naptar\\Properties\\Event.cs",
+              "ToolTip": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\Properties\\Event.cs",
+              "RelativeToolTip": "naptar\\Properties\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T08:49:21.109Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLiteDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\Properties\\SQLiteDataAccess.cs",
+              "RelativeDocumentMoniker": "naptar\\Properties\\SQLiteDataAccess.cs",
+              "ToolTip": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\Properties\\SQLiteDataAccess.cs",
+              "RelativeToolTip": "naptar\\Properties\\SQLiteDataAccess.cs",
+              "ViewState": "AQIAACoAAABA0MzMzEwVwEcAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:17:26.683Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoveEventForm.cs",
+              "DocumentMoniker": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\RemoveEventForm.cs",
+              "RelativeDocumentMoniker": "naptar\\RemoveEventForm.cs",
+              "ToolTip": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\RemoveEventForm.cs",
+              "RelativeToolTip": "naptar\\RemoveEventForm.cs",
+              "ViewState": "AQIAAAAAAADgZmZmZiYwwBcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:32:07.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\Form1.cs",
+              "RelativeDocumentMoniker": "naptar\\Form1.cs",
+              "ToolTip": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\Form1.cs",
+              "RelativeToolTip": "naptar\\Form1.cs",
+              "ViewState": "AQIAALIAAAAA/////z8qwMMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:27:17.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RemoveEventForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\RemoveEventForm.cs",
+              "RelativeDocumentMoniker": "naptar\\RemoveEventForm.cs",
+              "ToolTip": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\RemoveEventForm.cs [Design]",
+              "RelativeToolTip": "naptar\\RemoveEventForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:21:08.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UCDays.cs",
+              "DocumentMoniker": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\UCDays.cs",
+              "RelativeDocumentMoniker": "naptar\\UCDays.cs",
+              "ToolTip": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\UCDays.cs",
+              "RelativeToolTip": "naptar\\UCDays.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAjwCAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:47:36.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UCBlank.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\UCBlank.cs",
+              "RelativeDocumentMoniker": "naptar\\UCBlank.cs",
+              "ToolTip": "C:\\Users\\galtamas\\source\\repos\\naptar\\naptar\\UCBlank.cs [Design]",
+              "RelativeToolTip": "naptar\\UCBlank.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:37:40.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
